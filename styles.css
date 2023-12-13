@@ -1,7 +1,9 @@
 .backGround {
     background-image: url(assets/images/images.png);
-    display: flex;
     height: 550px;
+    width: 50%;
+    margin-left: 610px;
+        
 }
 
 h1 , form , h2 , P {
@@ -9,9 +11,13 @@ h1 , form , h2 , P {
 }
 
 #tofes {
+    display: block;
+    padding: 20px;
     background-color: antiquewhite;
     margin: 30px;
     height: 180px;
+    width: 30%;
+    margin-left: 800px;
 }
 
 #forgot {
