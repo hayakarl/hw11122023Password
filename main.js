@@ -15,5 +15,5 @@ function checkLogin() {
         event.preventDefault();
         return;
     }    
-    alert("Sending the values to the server...");
+    
 }
