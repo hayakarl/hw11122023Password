@@ -9,7 +9,7 @@ function checkLogin() {
     passwordBox.style.backgroundColor = "";
 
     if (usermail !== "idanmagl@gmail.com" || password !== "im1234$$") {
-        let showMessage = document.getElementById("messege")
+        let showMessage = document.getElementById("message")
         showMessage.innerText = "Wrong usermail or password"
         usermailBox.style.backgroundColor = "red";
         usermailBox.focus();
