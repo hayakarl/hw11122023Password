@@ -25,3 +25,11 @@ h1 , form , h2 , P {
     height: 500px;
 }
 
+#message {
+    font-style: italic;
+    color:crimson;
+    font-size: large;
+   text-shadow: 0 1px rgba(red, green, blue, alpha);
+    
+}
+
