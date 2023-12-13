@@ -1,4 +1,4 @@
-.backround {
+.backGround {
     background-image: url(assets/images/images.png);
     display: flex;
     height: 550px;
@@ -14,13 +14,13 @@ h1 , form , h2 , P {
     height: 180px;
 }
 
-#fogot {
+#forgot {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 80%;
 }
 
 #picture {
-    background-image: url(assets/images/sucsses.jpeg);
+    background-image: url(assets/images/success.jpeg);
     border: 550px; 
     height: 500px;
 }
